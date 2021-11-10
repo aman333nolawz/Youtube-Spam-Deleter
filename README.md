@@ -1,6 +1,8 @@
 # Youtube-Spam-Deleter
 A clone of ThioJoe's Youtube [spam deleter](https://github.com/ThioJoe/YouTube-Spammer-Purge) but with GUI.
 
+**Note:** checkout [thiojoe's spam deleter](https://github.com/ThioJoe/YouTube-Spammer-Purge). I made a similiar version of that but also implemented a GUI system
+
 Check out his [video](https://www.youtube.com/watch?v=-vOakOgYLUI) on his app
 
 # Running
