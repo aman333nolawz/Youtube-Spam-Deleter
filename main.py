@@ -37,7 +37,7 @@ if not credentials or not credentials.valid:
             scopes=["https://www.googleapis.com/auth/youtube.force-ssl"],
         )
 
-        flow.run_local_server(port=8080, prompt="consent", open_browser=False)
+        flow.run_local_server(port=8080, prompt="consent")
         credentials = flow.credentials
 
         # Save the credentials for the next run
